@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 5ce9a320f44b9304d87fb23608d1fde0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yanone Kaffeesatz
+  fontNames:
+  - Yanone Kaffeesatz
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c15d915071f62924bbd78c9ba8b05f9d, type: 3}
+  - {fileID: 12800000, guid: 26a3c171cbc14d84984baa6abb630e04, type: 3}
+  - {fileID: 12800000, guid: f2692ec58f23a5a4ea43b142914c5fdb, type: 3}
+  - {fileID: 12800000, guid: 230862e9c492dd544a48d6b1a745ec39, type: 3}
+  - {fileID: 12800000, guid: 15d8cc2e8f3b67f4aa5bec4109a3b6ee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
